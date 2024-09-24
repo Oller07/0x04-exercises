@@ -1,7 +1,3 @@
-# dev-setup
-Developer environment for SW1OPRG-01
-
-
 # Exercise 0x00
 Write a function `findMax` that takes three integers as input and returns the maximum among them.
 Write a test that calls the `findMax` function and prints the result to the console.
@@ -41,8 +37,3 @@ int main(int argc, char** argv) {
   return 0;
 }
 ```
-
-# Exercise 0x04
-Create functions for 2x2 matrix addition, and multiplication.
-Allow the user to input matrix data.
-Allow the user to choose which operations to person on two matrices and prints the result to the console.
