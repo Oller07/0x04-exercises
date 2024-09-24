@@ -1,15 +1,6 @@
 #include <iostream>
 
-int find_max(int first, int second, int third) {
-  int result = first;
-  if (second > result) {
-    result = second;
-  }
-  if (third > result) {
-    result = third;
-  }
-  return result;
-}
+int find_max(int first, int second, int third);
 
 int main() {
 
@@ -25,4 +16,15 @@ int main() {
   std::cout << result << std::endl;
 
   return 0;
+}
+
+int find_max(int first, int second, int third) {
+  int result = first;
+  if (second > result) {
+    result = second;
+  }
+  if (third > result) {
+    result = third;
+  }
+  return result;
 }

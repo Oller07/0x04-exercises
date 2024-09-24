@@ -8,7 +8,7 @@ Write a test that calls the `findMax` function and prints the result to the cons
 
 # Exercise 0x01
 Implement a function `calculateFactorial` that computes the factorial of a given non-negative integer.
-Write a test that calls the `findMax` function and prints the result to the console.
+Write a test that calls the `calculateFactorial` function and prints the result to the console.
 
 # Exercise 0x02
 Define overloaded functions to calculate the area of a rectangle, a circle, and a triangle.
